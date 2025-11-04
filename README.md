@@ -42,27 +42,7 @@ This space showcases the official certifications I’ve earned as part of my lea
 
 ## 🧠 Cybersecurity & Tech Certifications
 
-### 1️⃣ **[Certificate Name #1]**
-- **Issued by:** [cyber crime cell]  
-- **Date:** [july]  
-- **Credential ID (if any):** 
 
-
----
-
-### 2️⃣ **[Certificate Name #2]**
-- **Issued by:** [Organization Name]  
-- **Date:** [Month Year]  
-- **Credential ID (if any):** [Optional]  
-- 📄 [View Certificate](./Certificate2.pdf)
-
----
-
-### 3️⃣ **[Certificate Name #3]**
-- **Issued by:** [Organization Name]  
-- **Date:** [Month Year]  
-- **Credential ID (if any):** [Optional]  
-- 📄 [View Certificate](./Certificate3.pdf)
 
 ---
 
